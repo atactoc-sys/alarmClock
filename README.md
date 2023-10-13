@@ -13,7 +13,7 @@ A simple web-based alarm clock application built using HTML, CSS, and JavaScript
 
 ## Demo
 
-You can see a live demo of the Alarm Clock Project [here](#https://atactoc-sys.github.io/alarmClock/).
+You can see a live demo of the Alarm Clock Project [here](https://atactoc-sys.github.io/alarmClock/).
 
 ## Features
 
